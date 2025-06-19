@@ -7,7 +7,7 @@ const Signup: React.FC = () => {
         <img src="/insta-image.png" alt="Instagram-bg" className="w-full"/>
       </div>
       <div className="w-[350px] flex flex-col items-center ml-[-38px] mt-[32px] px-[40px] py-[10px]">
-        <div className="bg-[url(/logo.png)] bg-no-repeat h-[51px] w-[175px] mt-[36px] mb-[23px]"></div>
+        <div className="bg-[url(/Logo.png)] bg-no-repeat h-[51px] w-[175px] mt-[36px] mb-[23px]"></div>
         <form className="w-full flex flex-col gap-[6px] mt-[12px]">
           <input type="text" placeholder="Phone number, username, or email" className="bg-[#121212] text-[12px] pt-[9px] pb-[7px] pl-[8px] pr-0 text-white placeholder:text-[#a8a8a8] outline-none border border-[#363636] rounded"/>
           <input type="password" placeholder="Password" className="bg-[#121212] text-[12px] pt-[9px] pb-[7px] pl-[8px] pr-0 text-white placeholder:text-[#a8a8a8] outline-none border border-[#363636] rounded"/>
